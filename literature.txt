@@ -1,0 +1,17 @@
+Список литературы и источников информации:
+
+1)  Java
+Head First Java, (2nd Edition) by Kathy Sierra, Bert Bates
+Core Java (10th edition) by Cay S. Horstmann, Gary Cornell
+https://docs.oracle.com/javase/tutorial/  - Туториалы Оракл
+
+2) Git
+https://git-scm.com/book/en/v2
+
+3) Android
+Head First Android Development: A Brain-Friendly Guide
+https://developer.android.com/guide - гайды от Гугл
+https://www.udacity.com/  - Бесплатные курсы: Android Basics: User Interface, User Input, Networkig
+
+4) Мобильная индустрия в целом
+An Illustrated Guide to Mobile Technology by Sachin Date
