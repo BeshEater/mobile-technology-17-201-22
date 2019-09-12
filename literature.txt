@@ -6,6 +6,7 @@ Core Java (10th edition) by Cay S. Horstmann, Gary Cornell
 https://docs.oracle.com/javase/tutorial/  - Туториалы Оракл
 https://stepik.org/course/187/ - Курс по основам Java
 https://codingbat.com/java - Задания для тренировки
+https://adoptopenjdk.net/ - свободный JDK с простой установкой
 
 2) Git
 https://git-scm.com/book/en/v2
