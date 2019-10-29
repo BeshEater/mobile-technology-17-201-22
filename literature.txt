@@ -14,7 +14,8 @@ https://git-scm.com/book/en/v2
 3) Android
 Head First Android Development: A Brain-Friendly Guide
 https://developer.android.com/guide - гайды от Гугл
-https://www.udacity.com/  - Бесплатные курсы: Android Basics: User Interface, User Input, Networkig
+https://www.udacity.com/  - Бесплатные курсы на английском языке: Android Basics: User Interface, User Input, Networkig
+https://www.coursera.org/ - Бесплатный курс на русском языке: Быстрый старт в разработке Android-приложений
 
 4) Мобильная индустрия в целом
 An Illustrated Guide to Mobile Technology by Sachin Date
